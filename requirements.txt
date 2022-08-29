@@ -1,0 +1,6 @@
+pytz~=2022.1
+datetime~=4.4
+dateutils
+requests~=2.27.1
+lxml~=4.8.0
+pusherclient~=0.3.0
